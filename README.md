@@ -1,4 +1,10 @@
-### Hi there 👋
+### 
+
+<div align="center">
+  <a href="https://github.com/CinthiaCosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CinthiaCosta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <!--
 **CinthiaCosta/CinthiaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
