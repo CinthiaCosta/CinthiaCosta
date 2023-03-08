@@ -4,7 +4,7 @@ Estudante do quarto período de Análise e Desenvolvimento de Sistemas. Conhecim
 ##
 <div align="center">
   <a href="https://github.com/CinthiaCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CinthiaCosta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CinthiaCosta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
