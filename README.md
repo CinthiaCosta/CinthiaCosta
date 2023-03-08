@@ -1,6 +1,6 @@
 ### Hello there, I am Cinthia 😊
 
-Estudante do terceiro período de Análise e Desenvolvimento de Sistemas. Aprendendo POO, Java, Bancos de Dados e Padrões de Projetos. Trabalhando em um projeto de pesquisa sobre mitigação de linguagem discriminatória em Processamento de Linguagem Natural. Interesse em aprender sobre Segurança da Informação, UI e UX Design.
+Estudante do quarto período de Análise e Desenvolvimento de Sistemas. Conhecimento básico em Java e Orientação a Objetos. Aprendendo Bancos de Dados e Metodologias Ágeis. Recentemente, trabalhei em um projeto de pesquisa sobre mitigação de linguagem discriminatória em Processamento de Linguagem Natural. Interesse em aprender sobre Segurança da Informação, UI e UX Design.
 ##
 <div align="center">
   <a href="https://github.com/CinthiaCosta">
